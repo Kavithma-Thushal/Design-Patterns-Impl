@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Behavioral.iml" filepath="$PROJECT_DIR$/Behavioral/Behavioral.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Creational.iml" filepath="$PROJECT_DIR$/Creational/Creational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Structural/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Design-Patterns-Impl.iml" filepath="$PROJECT_DIR$/.idea/Design-Patterns-Impl.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural/Facade/Facade.iml" filepath="$PROJECT_DIR$/Structural/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Factory/Factory.iml" filepath="$PROJECT_DIR$/Creational/Factory/Factory.iml" />
