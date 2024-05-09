@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Structural/Facade/Facade.iml" filepath="$PROJECT_DIR$/Structural/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Factory/Factory.iml" filepath="$PROJECT_DIR$/Creational/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Creational/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Behavioral/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural/Structural.iml" filepath="$PROJECT_DIR$/Structural/Structural.iml" />
     </modules>
   </component>
