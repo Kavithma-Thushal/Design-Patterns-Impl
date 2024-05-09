@@ -16,15 +16,12 @@ public class Main {
 
 class SingletonObj {
 
-    // private static instance
     private static SingletonObj instance;
 
-    // private constructor
     private SingletonObj() {
         System.out.println("Object is Created...!");
     }
 
-    // public static method to get instance
     public static SingletonObj getInstance() {
         if (instance == null) {
             instance = new SingletonObj();
