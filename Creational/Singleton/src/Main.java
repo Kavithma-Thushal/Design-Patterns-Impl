@@ -5,8 +5,8 @@
  **/
 public class Main {
     public static void main(String[] args) {
-        SingletonObj instance1 = SingletonObj.getSingletonOjb();
-        SingletonObj instance2 = SingletonObj.getSingletonOjb();
+        SingletonObj instance1 = SingletonObj.getInstance();
+        SingletonObj instance2 = SingletonObj.getInstance();
 
         System.out.println(instance1);
         System.out.println(instance2);
@@ -17,18 +17,18 @@ public class Main {
 class SingletonObj {
 
     // private static instance
-    private static SingletonObj singletonObj;
+    private static SingletonObj instance;
 
     // private constructor
     private SingletonObj() {
-        System.out.println("Object Created");
+        System.out.println("Object is Created...!");
     }
 
     // public static method to get instance
-    public static SingletonObj getSingletonOjb() {
-        if (singletonObj == null) {
-            singletonObj = new SingletonObj();
+    public static SingletonObj getInstance() {
+        if (instance == null) {
+            instance = new SingletonObj();
         }
-        return singletonObj;
+        return instance;
     }
 }
