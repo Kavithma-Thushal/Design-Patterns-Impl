@@ -1,28 +1,36 @@
 # Design Patterns
 
-3 Main types;
+There are 3 main types of design patterns
 
-1. Creational
-2. Structural
-3. Behavioral
+1. Creational Design Patterns
+2. Structural Design Patterns
+3. Behavioral Design Patterns
 
-### 1. Creational
+### Creational
 
-Design patterns focusing on object **creation**:
+Design patterns focusing on object **creation**
 
-* [🔗 Singleton Design Pattern](https://github.com/Kavithma-Thushal/Design-Patterns-Impl/tree/master/Creational/Singleton)
-* [🔗 Factory Design Pattern](https://github.com/Kavithma-Thushal/Design-Patterns-Impl/tree/master/Creational/Singleton)
+* Singleton Design Pattern
+* Factory Design Pattern
 
-### 2. Structural
+### Structural
 
-Design patterns addressing object **relationships**:
+Design patterns addressing object **relationships**
 
-* [🔗 Facade Design Pattern](https://github.com/Kavithma-Thushal/Design-Patterns-Impl/tree/master/Creational/Singleton)
-* [🔗 Decorator Design Pattern](https://github.com/Kavithma-Thushal/Design-Patterns-Impl/tree/master/Creational/Singleton)
+* Facade Design Pattern
+* Decorator Design Pattern
 
-### 3. Behavioral
+### Behavioral
 
-Design patterns involving object **communication**:
+Design patterns involving object **communication**
 
-* [🔗 Observer Design Pattern](https://github.com/Kavithma-Thushal/Design-Patterns-Impl/tree/master/Creational/Singleton)
-* [🔗 Strategy Design Pattern](https://github.com/Kavithma-Thushal/Design-Patterns-Impl/tree/master/Creational/Singleton)
+* Strategy Design Pattern
+* Observer Design Pattern
+
+<div align="center">
+
+#### This project is licensed under the [MIT License](LICENSE)
+
+#### © 2024 All Right Reserved, Designed By [Kavithma Thushal](https://github.com/Kavithma-Thushal)
+
+</div>
